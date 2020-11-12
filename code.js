@@ -1,7 +1,7 @@
 // helloWorld function 
 const helloWorld = function() {
-    return "Hello, World!";
+	return "Hello, World!";
 };
-function sayHello(name){
-    return "Hello, " + name + "!";
+function sayHello(){
+	return "Hello, Jane";
 };
