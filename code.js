@@ -3,5 +3,5 @@ const helloWorld = function() {
     return "Hello, World!";
 };
 function sayHello(name){
-    return "Hello " + name;
+    return "Hello, " + name + "!";
 };
